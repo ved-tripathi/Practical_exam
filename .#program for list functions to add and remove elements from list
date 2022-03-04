@@ -1,0 +1,14 @@
+lst = ['apple','mango','banana']
+print(lst)
+lst.append('cherry')
+print(lst)
+lst.insert(2,'orange')
+print(lst)
+lst.pop()
+print(lst)
+lst.remove('mango')
+print(lst)
+del lst[0]
+print(lst)
+lst.clear()
+print(lst)
